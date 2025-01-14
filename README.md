@@ -91,4 +91,4 @@ The project revealed several key insights about neural network architecture:
 The SINE model's poor test performance suggests potential overfitting issues, despite good training metrics. This highlights the importance of proper generalization strategies in neural network design.
 
 ---
-For detailed methodology, results, and further discussion, please refer to the full paper.
+For detailed methodology, results, and further discussion, please refer to the full paper.[full paper](.Connectionist_18379666/connectionist_computing.pdf).
